@@ -4,7 +4,11 @@ This is my implementation of the look-up masking algorithm described in ["Higher
 
 # Results
 
-Power-analysis of an AES SBox lookup on an ATXMega128 using ChipWhisperer.
+Power-analysis of an AES SBox lookup on an ATXMega128 using ChipWhisperer. The plots show a correlation attack with 200 collected power traces. 
 
+
+![No masking](https://github.com/misc0110/lut-masking/raw/master/plots/no_mask.png "No masking")
+
+![Masking](https://github.com/misc0110/lut-masking/raw/master/plots/no_mask.png "No masking")
 
 
