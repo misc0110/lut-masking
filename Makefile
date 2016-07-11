@@ -1,3 +1,3 @@
 all: blind.c
-	gcc blind.c -o blind
+	gcc blind.c -o blind -Wall
 
